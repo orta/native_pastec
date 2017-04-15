@@ -1,0 +1,3 @@
+[submodule "pastec"]
+	path = pastec
+	url = https://github.com/Visu4link/pastec.git
